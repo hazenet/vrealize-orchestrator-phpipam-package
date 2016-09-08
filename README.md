@@ -22,17 +22,18 @@ Tools -> User Preferences... -> General -> Delete non empty folder permitted
 
 When that setting is enabled, it is possible to delete non-editable workflows, complete folders with workflows and folders inside.  
 This setting allows the delete of both these phpIPAM related workflows and VMware default workflows.  
-SO BE VERY CAREFUL WHEN USING THIS SETTING  
-AND DISABLE IT IMMEDIATELY AFTER  
+
+**SO BE VERY CAREFUL WHEN USING THIS SETTING**  
+**AND DISABLE IT IMMEDIATELY AFTER**  
 
 ## Installed content
 
-The package installs:
+The package installs:  
 
-Workflows -> Library -> phpIPAM
-Actions -> net.phpipam
-Configurations -> phpIPAM
-Packages -> net.phpipam
+Workflows -> Library -> phpIPAM  
+Actions -> net.phpipam  
+Configurations -> phpIPAM  
+Packages -> net.phpipam  
 
 ## Usage
 
