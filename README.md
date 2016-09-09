@@ -5,8 +5,8 @@ Developed on vRealize Orchestrator 7.0.1
 Against phpIPAM v1.25 rev002  
 
 Developed by Mads Fog Albrechtslund  
-Website: [https://hazenet.dk](https://hazenet.dk){:target="_blank"}  
-Twitter: [@Hazenet](https://twitter.com/Hazenet){:target="_blank"}  
+Website: [https://hazenet.dk](https://hazenet.dk)  
+Twitter: [@Hazenet](https://twitter.com/Hazenet)  
 
 ## Download
 
