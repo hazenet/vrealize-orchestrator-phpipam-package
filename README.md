@@ -1,6 +1,6 @@
 # vRealize Orchestrator package for interaction with phpIPAM
 
-Package Version: 0.0.1  
+Package Version: 0.0.2  
 Developed on vRealize Orchestrator 7.0.1  
 Against phpIPAM v1.25 rev002  
 
