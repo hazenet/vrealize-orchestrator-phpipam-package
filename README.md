@@ -1,8 +1,8 @@
 # vRealize Orchestrator package for interaction with phpIPAM
 
-Package Version: 0.0.2  
-Developed on vRealize Orchestrator 7.0.1  
-Against phpIPAM v1.25 rev002  
+Package Version: 0.0.3
+Developed on vRealize Orchestrator 7.0.1
+Against phpIPAM v1.26 rev030 (Commit 6aff3873fa496d0611c47d574aead5b650516698) 
 
 Developed by Mads Fog Albrechtslund  
 Website: [https://hazenet.dk](https://hazenet.dk)  
